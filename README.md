@@ -18,7 +18,7 @@ Este é um programa introdutório e não tem pré-requisitos. Para ter sucesso, 
 
 ## Projetos
 
-### 1. Welcome to the Program
+### 1. Bem-vindo ao Curso
 
 #### [Projeto - Interpretando uma Visualização de Dados](https://github.com/GersonBhrener/udacity-business-analytics/tree/main/Project01-Interpret_a_Data_Visualization)
 
