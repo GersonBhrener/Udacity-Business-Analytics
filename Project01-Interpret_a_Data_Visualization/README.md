@@ -33,7 +33,7 @@ Projeto inicial do curso Business Analytics sobre visualização e interpretaç�
 - Dashboard: [Malaria Deaths in Africa: 2000-2014](https://public.tableau.com/pt-br/gallery/malaria-africa?gallery=featured)
 - Relatório em PDF: [Add solution URL here](https://your-solution-url.com)
 - Relatório Online: [Venngage Online](https://venngage.net/ps/4opmjFHHFCM/interpretando-a-visualizao-de-dados)
-- Imagens do relatório (maior resolução):[Screenshots](https://github.com/GersonBhrener/udacity-business-analytics/tree/main/Project01-Interpret_a_Data_Visualization/screenshots)
+- Imagens do relatório (maior resolução): [Screenshots](https://github.com/GersonBhrener/udacity-business-analytics/tree/main/Project01-Interpret_a_Data_Visualization/screenshots)
 
 ### Ferramentas
 
