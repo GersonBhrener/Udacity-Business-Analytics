@@ -4,7 +4,7 @@ Projetos realizados no curso nanodegree de Business Analytics da plataforma Udac
 > https://www.udacity.com/course/business-analytics-nanodegree--nd098
 
 Em colaboração com:
-* Tableau: (https://www.tableau.com/pt-br)
+* Tableau: https://www.tableau.com/pt-br
 * Mode: https://mode.com/ 
 
 
