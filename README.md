@@ -26,3 +26,11 @@ Conheça seus instrutores e aprenda como otimizar sua sala de aula. Aprenda como
 
 - [Relatório](https://github.com/GersonBhrener/udacity-business-analytics/blob/main/Project01-Interpret_a_Data_Visualization/Interpretando%20a%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20-%20by%20Gerson%20Bhrener.pdf)
 - [Dados Utilizados](https://public.tableau.com/pt-br/gallery/malaria-africa?gallery=featured)
+
+
+### 2. Introdução aos Dados
+
+#### Projeto - Analisando a Bolsa de Valores de Nova Iorque (NYSE)
+
+Aprenda a usar estatísticas e recursos visuais para encontrar e comunicar ideias. Desenvolva habilidades do Excel para manipular, analisar e visualizar dados em uma planilha. Construa modelos do Excel para analisar possíveis resultados de negócios.
+
